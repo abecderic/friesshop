@@ -12,7 +12,5 @@ public class Panel extends JPanel
 	protected void paintComponent(Graphics g)
 	{
 		super.paintComponent(g);
-		
-		g.drawRect(40, 40, 80, 70);
 	}
 }
